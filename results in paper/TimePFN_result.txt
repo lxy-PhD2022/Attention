@@ -1,0 +1,89 @@
+#################################################################################### original, load ckpt infer
+fine-tuned-zero_shot_ECL_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.3153841197490692, mae:0.3837469518184662
+
+fine-tuned-zero_shot_ETTh1_96_96_TimePFN_ETTh1_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.453450471162796, mae:0.43986082077026367
+
+fine-tuned-zero_shot_ETTh2_96_96_TimePFN_ETTh2_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.3286583125591278, mae:0.3629258871078491
+
+fine-tuned-zero_shot_ETTm1_96_96_TimePFN_ETTm1_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.6378059387207031, mae:0.5126256346702576
+
+fine-tuned-zero_shot_ETTm2_96_96_TimePFN_ETTm2_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.21237127482891083, mae:0.2913435399532318
+
+fine-tuned-zero_shot_Exchange_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.10539758205413818, mae:0.22914831340312958
+
+fine-tuned-zero_shot_traffic_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:1.1084305047988892, mae:0.6131994724273682
+
+fine-tuned-zero_shot_weather_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.20986661314964294, mae:0.2554590702056885
+
+fine-tuned-zero_shot_Solar_96_96_TimePFN_Solar_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.9412125945091248, mae:0.7308000326156616
+
+
+
+#################################################################################### 加法，加载ckpt推理
+
+fine-tuned-zero_shot_ECL_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.3990495800971985, mae:0.4733070433139801
+
+fine-tuned-zero_shot_ETTh1_96_96_TimePFN_ETTh1_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.47203004360198975, mae:0.4523903727531433
+
+fine-tuned-zero_shot_ETTh2_96_96_TimePFN_ETTh2_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.3229905068874359, mae:0.3618226647377014
+
+fine-tuned-zero_shot_ETTm1_96_96_TimePFN_ETTm1_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.6884040832519531, mae:0.5334030985832214
+
+fine-tuned-zero_shot_ETTm2_96_96_TimePFN_ETTm2_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.2163388878107071, mae:0.2969461679458618
+
+fine-tuned-zero_shot_Exchange_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.10965447872877121, mae:0.2359185367822647
+
+fine-tuned-zero_shot_traffic_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:1.0434985160827637, mae:0.6204777359962463
+
+fine-tuned-zero_shot_weather_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.20347745716571808, mae:0.2526361048221588
+
+fine-tuned-zero_shot_Solar_96_96_TimePFN_Solar_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.8839213848114014, mae:0.6996451020240784
+
+
+
+#################################################################################### hadamard, load ckpt infer
+fine-tuned-zero_shot_ECL_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.31041428446769714, mae:0.37805259227752686
+
+fine-tuned-zero_shot_ETTh1_96_96_TimePFN_ETTh1_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.4934505522251129, mae:0.4569130837917328
+
+fine-tuned-zero_shot_ETTh2_96_96_TimePFN_ETTh2_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.3365975320339203, mae:0.36627820134162903
+
+fine-tuned-zero_shot_ETTm1_96_96_TimePFN_ETTm1_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.6633923649787903, mae:0.512405276298523
+
+fine-tuned-zero_shot_ETTm2_96_96_TimePFN_ETTm2_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.2235986888408661, mae:0.29956844449043274
+
+fine-tuned-zero_shot_Exchange_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.11003611981868744, mae:0.23315741121768951
+
+fine-tuned-zero_shot_traffic_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:1.0882203578948975, mae:0.5968374013900757
+
+fine-tuned-zero_shot_weather_96_96_TimePFN_custom_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:0.22444814443588257, mae:0.2651829421520233
+
+fine-tuned-zero_shot_Solar_96_96_TimePFN_Solar_M_ft96_sl48_ll96_pl1024_dm8_nh8_el1_dl512_df1_fctimeF_ebTrue_dtExp_projection_0_embDim256_dataAmount-1_maxChannel161_subset-1  
+mse:1.4044171571731567, mae:0.8802910447120667
+

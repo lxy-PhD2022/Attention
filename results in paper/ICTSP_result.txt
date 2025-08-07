@@ -1,0 +1,48 @@
+ICTSP_Full-ETTh1.csv-to-ETTh1.csv-96_2024_RD()_1440_512_96_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl96_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.3989659249782562, mse:0.3729538023471832, rmse:0.6106994152069092, mape:9.342623710632324, mspe:37077.1484375, rse:0.5800766348838806, details:[]
+RMSE details:[]
+ICTSP_Full-ETTh1.csv-to-ETTh1.csv-192_2024_RD()_1440_512_192_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl192_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.4170187711715698, mse:0.4059753715991974, rmse:0.6371619701385498, mape:9.531590461730957, mspe:37010.24609375, rse:0.6050721406936646, details:[]
+RMSE details:[]
+ICTSP_Full-ETTh1.csv-to-ETTh1.csv-336_2024_RD()_1440_512_336_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl336_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.4298165440559387, mse:0.4277721345424652, rmse:0.6540428996086121, mape:9.562774658203125, mspe:37207.69140625, rse:0.6226704716682434, details:[]
+RMSE details:[]
+ICTSP_Full-ETTh1.csv-to-ETTh1.csv-720_2024_RD()_1440_512_720_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl720_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.44889721274375916, mse:0.4301661252975464, rmse:0.6558704972267151, mape:10.314926147460938, mspe:41859.90625, rse:0.627870500087738, details:[]
+RMSE details:[]
+ICTSP_Full-ETTh2.csv-to-ETTh2.csv-96_2024_RD()_1440_512_96_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl96_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.3355889916419983, mse:0.2776881456375122, rmse:0.5269612669944763, mape:1.4081699848175049, mspe:374.862548828125, rse:0.42467817664146423, details:[]
+RMSE details:[]
+ICTSP_Full-ETTh2.csv-to-ETTh2.csv-192_2024_RD()_1440_512_192_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl192_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.3763415813446045, mse:0.3324423134326935, rmse:0.5765780806541443, mape:1.5523207187652588, mspe:353.97454833984375, rse:0.46237993240356445, details:[]
+RMSE details:[]
+ICTSP_Full-ETTh2.csv-to-ETTh2.csv-336_2024_RD()_1440_512_336_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl336_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.4080457091331482, mse:0.3784751296043396, rmse:0.615203320980072, mape:1.73394775390625, mspe:459.7891540527344, rse:0.4918789267539978, details:[]
+RMSE details:[]
+ICTSP_Full-ETTh2.csv-to-ETTh2.csv-720_2024_RD()_1440_512_720_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl720_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.4309324622154236, mse:0.39569032192230225, rmse:0.6290392279624939, mape:1.9257912635803223, mspe:568.857421875, rse:0.5027862787246704, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm1.csv-to-ETTm1.csv-96_2024_RD()_1440_512_96_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl96_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.3513363003730774, mse:0.3099788725376129, rmse:0.5567574501037598, mape:2.1873726844787598, mspe:353.1019592285156, rse:0.5297828912734985, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm1.csv-to-ETTm1.csv-192_2024_RD()_1440_512_192_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl192_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.45509135723114014, mse:0.5027583837509155, rmse:0.7090545892715454, mape:3.001337766647339, mspe:653.6192016601562, rse:0.6749649047851562, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm1.csv-to-ETTm1.csv-336_2024_RD()_1440_512_336_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl336_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.5246668457984924, mse:0.6576532125473022, rmse:0.810958206653595, mape:3.4616522789001465, mspe:875.4598999023438, rse:0.771696925163269, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm1.csv-to-ETTm1.csv-720_2024_RD()_1440_512_720_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl720_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.7210724949836731, mse:1.2100886106491089, rmse:1.100040316581726, mape:4.9818596839904785, mspe:1779.901123046875, rse:1.046596646308899, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm2.csv-to-ETTm2.csv-96_2024_RD()_1440_512_96_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl96_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.25392094254493713, mse:0.16481748223304749, rmse:0.40597718954086304, mape:1.0769802331924438, mspe:221.08323669433594, rse:0.32915300130844116, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm2.csv-to-ETTm2.csv-192_2024_RD()_1440_512_192_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl192_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.2910321056842804, mse:0.21933093667030334, rmse:0.4683278203010559, mape:1.1949254274368286, mspe:235.09652709960938, rse:0.37909239530563354, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm2.csv-to-ETTm2.csv-336_2024_RD()_1440_512_336_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl336_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.32540979981422424, mse:0.2706734240055084, rmse:0.5202628374099731, mape:1.297473430633545, mspe:248.0788116455078, rse:0.420226514339447, details:[]
+RMSE details:[]
+ICTSP_Full-ETTm2.csv-to-ETTm2.csv-720_2024_RD()_1440_512_720_K(3)_d(128)_Dropout(0.5)_m(8)_W(5000)_Limit(2048)_wRet(1_ICTSP_custom_ftM_sl1440_ll1440_pl720_dm128_nh8_el3_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mae:0.3821498453617096, mse:0.36293259263038635, rmse:0.6024388670921326, mape:1.4710824489593506, mspe:282.6125183105469, rse:0.48423632979393005, details:[]
+RMSE details:[]
